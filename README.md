@@ -10,4 +10,4 @@ In-game Animation:
 Game Over:
 > ![Screenshot from 2021-08-06 21-22-27](https://user-images.githubusercontent.com/53170095/128539212-a73d4207-489f-4d54-9503-6844a4352100.png)
 
-### The user can use arrow keys to move the "player" (here the spaceship) for a wode range of attack. The bullets can be fired using "space" bar, with a cooldown time of its hitting the target or going out of the window.
+### The user can use arrow keys to move the "player" (here the spaceship) for a wide range of attack. The bullets can be fired using "space" bar, with a cooldown time of its hitting the target or going out of the window.
